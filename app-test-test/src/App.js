@@ -1,9 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
-import MyComponent from "./components/MyComponent";
 
 function App() {
-  return <MyComponent />;
+  return <p>może tym razem się uda?</p>;
 }
 
 export default App;
